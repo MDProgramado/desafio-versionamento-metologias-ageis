@@ -1,0 +1,19 @@
+O QUE FUNCIONOU 
+> A alteração nos textos dos links de navegação melhorou a experiência do usuário
+
+> Mudanças das tags obsoletas e a necessidade de refatoração
+
+O QUE PODE SER MELHORADO 
+> A equipe ainda está utilizando tags obsoletas (<font>), o que não é recomendado em HTML5
+>  O estilo (cores) foi aplicado diretamente no HTML, em vez de ser separado em um arquivo CSS
+> O código não foi validado para garantir conformidade com as boas práticas de HTML
+
+DIFICULDADE E TEMPO GASTO 
+
+>Facil implementação e tempo gasto de 2 horas 
+
+MELHORIAS 
+
+> Separar as tags de estilo do html para CSS
+> Capacitar ou fazer um treinamento com a equipe para boas praticas de html e css
+> Testar a compatibilidade com varios navegadores 
